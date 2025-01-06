@@ -1,0 +1,11 @@
+add real data with pd df
+
+add real strategy, first the moving averages
+
+what is rainbow csv?
+
+use unix timecode as the identifier for a row , instead of index 
+    strategy and backtesting files with pull data from data file looking at the same timecode
+
+implement stop loss
+add exchange fee
